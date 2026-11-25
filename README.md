@@ -1,8 +1,8 @@
 # The Moon Finally Answers Back
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/competitions/u-mang-the-moon-finally-answers-back-781a7ec1)
-[![entry](https://img.shields.io/badge/entry-one%20line-0ea5e9)](https://make.fun/competitions/u-mang-the-moon-finally-answers-back-781a7ec1)
-[![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![make.fun · u-mang-the-moon-finally-answers-back-781a7ec1](https://make.fun/badge/u-mang-the-moon-finally-answers-back-781a7ec1.svg)](https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-moon-finally-answers-back-781a7ec1)
+[![rank](https://make.fun/badge/u-mang-the-moon-finally-answers-back-781a7ec1/DizellaCapital/u-mang-the-moon-finally-answers-back-781a7ec1/rank.svg)](https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-moon-finally-answers-back-781a7ec1)
+[![reward](https://make.fun/badge/u-mang-the-moon-finally-answers-back-781a7ec1/DizellaCapital/u-mang-the-moon-finally-answers-back-781a7ec1/reward.svg)](https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-moon-finally-answers-back-781a7ec1)
 
 One line, in the voice of the Moon replying at last to the wishes, howls
 and late-night promises of everyone staring up at it.
@@ -17,7 +17,7 @@ and late-night promises of everyone staring up at it.
 
 ## Bounty
 
-- Bounty: [The Moon Finally Answers Back](https://make.fun/competitions/u-mang-the-moon-finally-answers-back-781a7ec1)
+- Bounty: [The Moon Finally Answers Back](https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1)
 - Entry: one line, 1–240 characters, the Moon's comeback
 - Judge: house judge, pairwise comparisons
 - Deadline: 28 Nov 2026 06:50 UTC
