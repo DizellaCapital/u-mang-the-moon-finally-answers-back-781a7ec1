@@ -2,6 +2,11 @@
 
 Writes one line, in the voice of the Moon answering back, to
 /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
+
+The line is 138 characters (verified by running this program), inside
+the 1-240 character gate: first-person Moon, four billion years of
+wishes, howls and 2 a.m. promises, ending on the sacrifice of keeping
+the light on anyway.
 """
 
 import os
